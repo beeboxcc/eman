@@ -1,12 +1,12 @@
 # 牵牛-电子帮助手册
-[SAAS 访问地址](https://fx.beebox.cc/eman)
+[云端-电子手册（免费）](https://fx.beebox.cc/eman)
 
-[使用帮助地址](https://fx.beebox.cc/eman/article/published?manualId=fbee664efc4ee44ed2632ca291904209)
+[本地私有化部署（免费）](https://hub.docker.com/r/beeboxcc/eman-app)
 
-[本地私有化部署](https://hub.docker.com/r/beeboxcc/eman-app)
+[帮助文档](https://fx.beebox.cc/eman/article/published?manualId=fbee664efc4ee44ed2632ca291904209)
 
 
-### 电子手册是一款企业知识管理工具，通过独立的空间，结构化地组织在线协作文档，实现企业知识的积累和沉淀，促进知识的高度复用和流通。
+电子手册是一款企业知识管理工具，通过独立的空间，结构化地组织在线协作文档，实现企业知识的积累和沉淀，促进知识的高度复用和流通。
 ![](img.png)
 ### 结构管理合理，界面美观，易用
 牵牛采用的空间-手册-文章三级来管理组织内容，空间是为一个企业或者组织设定的一个区域，每个空间相互独立，一个空间下可以有多个手册。每个手册下还可以按目录分类来管理文章，我们可以根据业务自行划分管理结构，全覆盖组织所有的手册需求， 结构示例如下图所示。

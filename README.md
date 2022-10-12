@@ -46,6 +46,6 @@
 
 ![img_10.gif](images/img_10.gif)
 
-牵牛-电子手册主要应用场景。
+### 主要应用场景。
 ![img_11.png](images/img_11.png)
 

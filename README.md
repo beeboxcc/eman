@@ -1,4 +1,9 @@
 # 牵牛-电子帮助手册
+[云端-电子手册（免费）](https://fx.beebox.cc/eman)
+
+[本地私有化部署（免费）](https://hub.docker.com/r/beeboxcc/eman-app)
+
+[帮助文档](https://fx.beebox.cc/eman/article/published?manualId=fbee664efc4ee44ed2632ca291904209)
 
 
 电子手册是一款企业知识管理工具，通过独立的空间，结构化地组织在线协作文档，实现企业知识的积累和沉淀，促进知识的高度复用和流通。

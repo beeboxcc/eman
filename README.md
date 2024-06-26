@@ -1,7 +1,7 @@
 # 牵牛-电子帮助手册
 [云端-电子手册（免费）](https://eman.beebox.cc)
 
-[本地私有化部署（免费）](https://hub.docker.com/r/beeboxcc/eman-app)
+[本地私有化部署（免费）](https://eman.beebox.cc/puba/cIoepu3IP)
 
 [帮助文档](https://eman.beebox.cc/pub/qn)
 
